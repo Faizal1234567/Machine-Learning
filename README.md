@@ -1,2 +1,1 @@
-# Machine-Learning
-M.sc-AI &amp; ML
+DataPreProcessing, Data Analysing, Data Visualization
